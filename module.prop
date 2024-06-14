@@ -1,0 +1,7 @@
+id=universal-gms-doze
+name=Universal GMS Doze
+version=1.0
+versionCode=191
+author=kolassrexonj
+description=Patches Google Play services app and certain processes/services to be able to use battery optimizations
+
